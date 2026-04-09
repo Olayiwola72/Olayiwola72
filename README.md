@@ -61,8 +61,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,redux,d3,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,python,react,mongodb,postgres,redis,elasticsearch,kafka,aws,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,redux,git,postman,docker,maven,gradle,linux" />
 </p>
 
 <hr>
@@ -74,6 +74,13 @@
 </p>
 
 <hr>
+
+### Certifications
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/0c7884d1-b85d-4e90-a1c8-4af2274f9f28/public_url)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/fe9a9788-feed-4f28-b03b-7058fe62b410/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/54ebbe42-299d-484a-9d34-868101d49bfa/public_url)
+
+<br>
 
 ## ⚡️ Stats
 
