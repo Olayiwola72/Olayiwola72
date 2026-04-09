@@ -73,21 +73,6 @@
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/fe9a9788-feed-4f28-b03b-7058fe62b410/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/54ebbe42-299d-484a-9d34-868101d49bfa/public_url)
 
-<h3 align="center">☁️ AWS Certifications</h3>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/0c7884d1-b85d-4e90-a1c8-4af2274f9f28/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/amazon_web_services_logo.png" width="120" alt="AWS Certification Badge 1"/>
-  </a>
-
-  <a href="https://www.credly.com/badges/fe9a9788-feed-4f28-b03b-7058fe62b410/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/amazon_web_services_logo.png" width="120" alt="AWS Certification Badge 2"/>
-  </a>
-
-  <a href="https://www.credly.com/badges/54ebbe42-299d-484a-9d34-868101d49bfa/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/amazon_web_services_logo.png" width="120" alt="AWS Certification Badge 3"/>
-  </a>
-</p>
 
 <br>
 
