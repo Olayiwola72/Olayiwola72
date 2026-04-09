@@ -104,6 +104,8 @@ Focused on depth over noise. Shipping thoughtfully.
 
 ## 📕 Latest Writing
 <!-- BLOG-POST-LIST:START -->
+- [Raft Consensus Explained Visually: Leader Election, Quorum, and Failure Recovery in Distributed…](https://medium.com/@olayiwola72/raft-consensus-explained-visually-leader-election-quorum-and-failure-recovery-in-distributed-c641d9dca2b5?source=rss-2bf0b686476e------2)
+- [Memory Is a Budget: Understanding Strong, Soft, Weak, and Phantom References in Java](https://blog.stackademic.com/memory-is-a-budget-understanding-strong-soft-weak-and-phantom-references-in-java-14e8768916be?source=rss-2bf0b686476e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
