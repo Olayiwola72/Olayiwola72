@@ -100,9 +100,8 @@ Java • Spring Boot • Distributed Systems • System Design • AWS
 ---
 
 ## 📝 Latest Writing
-
-- [Raft Consensus Explained Visually](https://medium.com/@olayiwola72/raft-consensus-explained-visually-leader-election-quorum-and-failure-recovery-in-distributed-c641d9dca2b5)  
-- [Memory Is a Budget: Java Reference Types Explained](https://blog.stackademic.com/memory-is-a-budget-understanding-strong-soft-weak-and-phantom-references-in-java-14e8768916be)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
