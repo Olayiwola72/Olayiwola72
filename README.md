@@ -1,23 +1,23 @@
 <!-- ============================= -->
-<!--        HERO SECTION           -->
+<!--           HERO                -->
 <!-- ============================= -->
 
 <h1 align="center">Olayiwola Akinnagbe</h1>
 
 <p align="center">
-  <strong>Backend Engineer • Fintech Systems • Distributed Architecture • AI Tools</strong>
+  <strong>Backend Systems Engineer • Distributed Infrastructure • Fintech Architecture • AI Tooling</strong>
 </p>
 
 <p align="center">
   I design and ship scalable financial infrastructure, production-grade microservices, 
-  and resilient cloud-native systems.  
+  and resilient cloud-native systems.<br/>
   Turning caffeine into clean APIs ☕ and fault-tolerant architecture.
 </p>
 
 <br/>
 
 <!-- ============================= -->
-<!--        SOCIALS                -->
+<!--           SOCIALS             -->
 <!-- ============================= -->
 
 <p align="center">
@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,ts,python,react,postgres,mongodb,redis,kafka,aws,docker,linux,git" />
 </p>
 
-**Primary Focus:**  
+**Primary Focus**  
 Java • Spring Boot • Distributed Systems • System Design • AWS
 
 ---
@@ -75,6 +75,17 @@ Java • Spring Boot • Distributed Systems • System Design • AWS
 - 🟧 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/0c7884d1-b85d-4e90-a1c8-4af2274f9f28/public_url)  
 - 🟧 [AWS Certified Developer – Associate](https://www.credly.com/badges/fe9a9788-feed-4f28-b03b-7058fe62b410/public_url)  
 - 🟧 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/54ebbe42-299d-484a-9d34-868101d49bfa/public_url)
+
+---
+
+## 🔥 Currently Building
+
+- Distributed coordination learning infrastructure  
+- Advanced system design explainers for backend engineers  
+- AI-assisted developer tooling experiments  
+- Production-grade architecture patterns for fintech systems  
+
+Focused on depth over noise. Shipping thoughtfully.
 
 ---
 
@@ -91,19 +102,9 @@ Java • Spring Boot • Distributed Systems • System Design • AWS
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olayiwola72&theme=transparent" />
-</p>
-
----
-
-## 📝 Latest Writing
+## 📕 Latest Writing
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
 
 ---
 
@@ -112,14 +113,8 @@ Java • Spring Boot • Distributed Systems • System Design • AWS
 ### ⚓ Raft Consensus Visualizer  
 Distributed Systems • Deterministic Simulation • System Design Education  
 
-<p>
-A production-quality interactive visualizer that turns the Raft consensus algorithm 
+A production-quality interactive visualizer that turns the Raft consensus algorithm  
 into a deterministic, inspectable system design tool.
-
-Designed to help engineers understand leader election, quorum mechanics, 
-log replication, and failure recovery through a controlled simulation engine 
-separated cleanly from the UI layer.
-</p>
 
 **Highlights**
 
@@ -133,7 +128,7 @@ separated cleanly from the UI layer.
 **Stack**  
 React • TypeScript • Vite • SCSS  
 
-<p>
+<p align="center">
   <a href="https://raft-consensus-visualizer.netlify.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
@@ -142,18 +137,21 @@ React • TypeScript • Vite • SCSS
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Olayiwola72/raft-consensus-visualizer/main/docs/media/app-preview.png" width="85%" />
+</p>
+
+<p align="center">
+  <sub>Deterministic cluster simulation architecture with isolated state engine.</sub>
+</p>
+
 ---
 
 ### ⚙️ Rate Limiting Simulations Lab  
 Backend Systems • Traffic Shaping • API Infrastructure  
 
-<p>
-An interactive lab for visualizing how popular rate limiting algorithms behave 
+An interactive lab for visualizing how popular rate limiting algorithms behave  
 under burst and steady traffic conditions.
-
-Built as a learning and demonstration platform for backend engineers 
-studying API protection, throughput shaping, and system resilience.
-</p>
 
 **Included Algorithms**
 
@@ -166,14 +164,13 @@ studying API protection, throughput shaping, and system resilience.
 **Highlights**
 
 - Real-time request simulation and throughput graphs  
-- Configurable rate, refill, leak, and capacity parameters  
-- Side-by-side conceptual comparison  
-- Clear algorithmic trade-off visualization  
+- Configurable rate and capacity parameters  
+- Clear visualization of algorithmic trade-offs  
 
 **Stack**  
 React • TypeScript • Vite • SCSS • ECharts  
 
-<p>
+<p align="center">
   <a href="https://rate-limiting-simulations.netlify.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
@@ -181,10 +178,8 @@ React • TypeScript • Vite • SCSS • ECharts
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 <p align="center">
   <sub>Building resilient systems for high-trust environments.</sub>
 </p>
-
