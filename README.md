@@ -39,6 +39,49 @@
 
 <hr>
 
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+  <!-- Portfolio -->
+  <a href="https://olayiwola-akinnagbe.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/olayiwola-akinnagbe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/119Hkfzy2sHD9gm9V5Oe4m0Xm5vamPNgt/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-1F883D?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=SQvrXmIAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+  
+  <!-- Sessionize -->
+  <a href="https://sessionize.com/olayiwola-akinnagbe" target="_blank">
+    <img src="https://img.shields.io/badge/Speaker%20Profile-4A90E2?style=for-the-badge&logo=google-calendar&logoColor=white" />
+  </a>
+  
+  <!-- Medium -->
+  <a href="https://medium.com/@olayiwola72" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  
+  <!-- Twitter/X -->
+  <a href="https://x.com/OlayiwolaAkinn1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<hr>
+
 ## 🛠️ Languages and Tools
 
 <br>
