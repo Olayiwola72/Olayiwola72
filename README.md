@@ -2,6 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Olayiwola72&label=Profile%20views&color=0e75b6&style=flat" alt="visitor count"/>
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=44&center=true&vCenter=true&width=850&height=70&color=4493F8&duration=3500&lines=Hi+There!+👋;I'm+Olayiwola+Akinnagbe;Backend+Engineer+%7C+Fintech+%7C+Microservices+%7C+AI;Turning+caffeine+into+clean+APIs+☕" />
+</h1>
 <!--
 **Olayiwola72/Olayiwola72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
