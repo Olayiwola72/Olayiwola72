@@ -9,7 +9,7 @@
 ### A backend engineer crafting scalable fintech systems, microservices, and AI tools. I turn caffeine into clean APIs and resilient cloud magic.
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Spring, TypeScript, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💬 Ask me about **Java, Spring, TypeScript, React...or anything [here](https://github.com/olayiwola72/olayiwola72/issues)**
 
 <br>
 
