@@ -70,7 +70,7 @@ Java • Spring Boot • Distributed Systems • System Design • AWS
 
 ---
 
-## ☁️ AWS Certifications
+## 🎖️ My Badges
 
 <p align="center">
   <!--START_SECTION:badges-->
