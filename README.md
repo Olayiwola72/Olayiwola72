@@ -67,6 +67,14 @@
 
 <hr>
 
+<p align="center">
+  <a href="https://www.credly.com/badges/0c7884d1-b85d-4e90-a1c8-4af2274f9f28/public_url">
+    <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+</p>
+
+<hr>
+
 ## ⚡️ Stats
 
 <br>
