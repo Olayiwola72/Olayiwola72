@@ -13,32 +13,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://linkedin.com/in/olayiwola-akinnagbe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@olayiwola72" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://x.com/OlayiwolaAkinn1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://olayiwola-akinnagbe.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=SQvrXmIAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-  <a href="https://sessionize.com/olayiwola-akinnagbe" target="_blank">
-    <img src="https://img.shields.io/badge/Sessionize-4A90E2?style=for-the-badge&logo=google-calendar&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/119Hkfzy2sHD9gm9V5Oe4m0Xm5vamPNgt/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</div>
-
-<hr>
-
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
