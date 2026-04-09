@@ -67,14 +67,6 @@
 
 <hr>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/0c7884d1-b85d-4e90-a1c8-4af2274f9f28/public_url">
-    <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-</p>
-
-<hr>
-
 ### Certifications
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/0c7884d1-b85d-4e90-a1c8-4af2274f9f28/public_url)
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/fe9a9788-feed-4f28-b03b-7058fe62b410/public_url)
