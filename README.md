@@ -76,6 +76,9 @@ Java • Spring Boot • Distributed Systems • System Design • AWS
 - 🟧 [AWS Certified Developer – Associate](https://www.credly.com/badges/fe9a9788-feed-4f28-b03b-7058fe62b410/public_url)  
 - 🟧 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/54ebbe42-299d-484a-9d34-868101d49bfa/public_url)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ---
 
 ## 🔥 Currently Building
