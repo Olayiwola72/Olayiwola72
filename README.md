@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Olayiwola72&label=Profile%20views&color=0e75b6&style=flat" alt="visitor count"/>
-</p>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.deno.dev/:Olayiwola72:/count.svg" alt="Key:: Visitor's Count" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=1000&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Olayiwola+Akinnagbe!;" />
@@ -81,6 +82,12 @@
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=olayiwola72&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Olayiwola Akinnagbe's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/api?user=olayiwola72&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Olayiwola Akinnagbe's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=olayiwola72&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Olayiwola Akinnagbe's Most Used Languages" />
+</div>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=olayiwola72&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Olayiwola Akinnagbe's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=olayiwola72&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Olayiwola Akinnagbe's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=olayiwola72&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Olayiwola Akinnagbe's Most Used Languages" />
 </div>
 
