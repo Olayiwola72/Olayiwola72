@@ -74,11 +74,11 @@ Java • Spring Boot • Distributed Systems • System Design • AWS
 
 <p align="center">
   <!--START_SECTION:badges-->
-  <a href="https://www.credly.com/badges/0c7884d1-b85d-4e90-a1c8-4af2274f9f28" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
-  <a href="https://www.credly.com/badges/fe9a9788-feed-4f28-b03b-7058fe62b410" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
-  <a href="https://www.credly.com/badges/54ebbe42-299d-484a-9d34-868101d49bfa" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
-  <a href="https://www.credly.com/badges/367960d2-a5f4-4d81-a4c8-fdd0b75afe6b" title="Verified International Academic Qualifications"><img src="https://images.credly.com/size/80x80/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" alt="Verified International Academic Qualifications" width="80" height="80"></a>
-  <!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/0c7884d1-b85d-4e90-a1c8-4af2274f9f28" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/fe9a9788-feed-4f28-b03b-7058fe62b410" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/54ebbe42-299d-484a-9d34-868101d49bfa" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/367960d2-a5f4-4d81-a4c8-fdd0b75afe6b" title="Verified International Academic Qualifications"><img src="https://images.credly.com/size/80x80/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" alt="Verified International Academic Qualifications" width="80" height="80"></a>
+<!--END_SECTION:badges-->
 </p>
 
 ---
