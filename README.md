@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/olayiwola-akinnagbe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/119Hkfzy2sHD9gm9V5Oe4m0Xm5vamPNgt/view">
+  <a href="https://drive.google.com/file/d/14k4zPrIW-oj6jhSDRPlLOC2JDulprBKg/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-1F883D?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
