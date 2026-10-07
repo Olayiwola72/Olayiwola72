@@ -73,6 +73,10 @@ Java • Spring Boot • Distributed Systems • System Design • AWS
 ## 🎖️ My Badges
 
 <p align="center">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EF4362EBA1C64644675A6B90C7F614BFA1EEE235584947142A113B9F1EF6B556" title="Oracle Certified Professional: Java SE 17 Developer">
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE17.png" alt="Oracle Certified Professional: Java SE 17 Developer" height="110"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/0c7884d1-b85d-4e90-a1c8-4af2274f9f28" title="AWS Certified Solutions Architect – Associate">
     <img src="https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" height="110"/>
   </a>
